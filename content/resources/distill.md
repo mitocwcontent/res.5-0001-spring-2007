@@ -1,0 +1,13 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/dee6c6a8783800304aac9fbf24298a03_distill.jpg
+file_type: image/jpeg
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+resourcetype: Image
+title: distill.jpg
+uid: dee6c6a8-7838-0030-4aac-9fbf24298a03
+---
